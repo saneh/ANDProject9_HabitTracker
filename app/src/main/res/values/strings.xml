@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">HabitTracker</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="instructions">Refer to java class file: HabitTrackerDbHelper HabitTrackerContract</string>
+</resources>
